@@ -7,4 +7,4 @@ sports = 'cricket-vollyball-baseball-golf-basketball -badminton'
 sports = (sports.split('-'))
 sports.sort()
 sports = '-'.join(sports)
-print(sports) # ===> black-green-red-white-white
+print(sports) 
